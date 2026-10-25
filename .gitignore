@@ -1,0 +1,24 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv311/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
