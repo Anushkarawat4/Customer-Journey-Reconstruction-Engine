@@ -120,15 +120,15 @@ If you open the notebook from another working directory, adjust the path to matc
 - [x] Add a source-period label to each worksheet.
 - [x] Combine the worksheets into a single DataFrame.
 - [x] Inspect the combined dataset's dimensions and initial records.
-- [ ] Analyze missing values and duplicate records.
-- [ ] Examine column data types and transaction date ranges.
+- [x] Analyze missing values and duplicate records.
+- [x] Examine column data types and transaction date ranges.
 
 ### Planned Development
 
 **Phase 2 — Data Cleaning and Preparation**
-- Handle missing customer identifiers and invalid records.
-- Examine cancellations, returns, and unusual quantities or prices.
-- Prepare transaction dates and calculate transaction-level revenue where appropriate.
+- [x] Handle missing customer identifiers and invalid records.
+- [x] Examine cancellations, returns, and unusual quantities or prices.
+- [x] Prepare transaction dates and calculate transaction-level revenue where appropriate.
 
 **Phase 3 — Customer Journey Reconstruction**
 - Order transactions chronologically.
